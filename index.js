@@ -1,3 +1,3 @@
-const DataMapper = require('./lib/DataMapper');
+const Atlas = require('./lib/Atlas');
 
-module.exports = DataMapper;
+module.exports.Atlas = Atlas;
