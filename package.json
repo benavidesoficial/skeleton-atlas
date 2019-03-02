@@ -18,6 +18,7 @@
   "homepage": "https://github.com/benavidesoficial/skeleton-atlas#readme",
   "dependencies": {
     "glob": "^7.1.2",
+    "mockgoose": "^8.0.1",
     "mongoose": "^5.4.15",
     "pkg-dir": "^2.0.0"
   }
