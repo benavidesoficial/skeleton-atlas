@@ -1,6 +1,6 @@
 {
   "name": "@skeleton/atlas",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "description": "DataMapper for Skeleton",
   "main": "index.js",
   "scripts": {
