@@ -17,11 +17,12 @@
   },
   "homepage": "https://github.com/benavidesoficial/skeleton-atlas#readme",
   "dependencies": {
-    "glob": "^7.1.2",
-    "mockgoose": "^8.0.1",
-    "mongoose": "^5.4.15",
-    "mongoose-unique-array": "^0.3.1",
-    "mongoose-unique-validator": "^2.0.2",
+    "app-root-path": "^2.2.1",
+    "glob": "^7.1.4",
+    "mockgoose": "^8.0.2",
+    "mongoose": "^5.6.11",
+    "mongoose-unique-array": "^0.3.3",
+    "mongoose-unique-validator": "^2.0.3",
     "pkg-dir": "^2.0.0"
   }
 }
