@@ -21,8 +21,6 @@
     "glob": "^7.1.4",
     "mockgoose": "^8.0.2",
     "mongoose": "^5.6.11",
-    "mongoose-unique-array": "^0.3.3",
-    "mongoose-unique-validator": "^2.0.3",
-    "pkg-dir": "^2.0.0"
+    "mongoose-unique-validator": "^2.0.3"
   }
 }
