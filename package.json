@@ -3,7 +3,7 @@
   "np": {
     "tests": false
   },
-  "version": "0.10.7",
+  "version": "0.10.8",
   "description": "DataMapper for Skeleton",
   "main": "index.js",
   "scripts": {
