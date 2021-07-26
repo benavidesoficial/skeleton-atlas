@@ -26,5 +26,8 @@
     "mockgoose": "^8.0.4",
     "mongoose": "^5.13.3",
     "mongoose-unique-validator": "^2.0.3"
+  },
+  "devDependencies": {
+    "np": "*"
   }
 }
