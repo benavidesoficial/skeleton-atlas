@@ -1,3 +1,3 @@
-const Atlas = require('./lib/Atlas');
+import Atlas from './lib/Atlas.js';
 
-module.exports.Atlas = new Atlas();
+export default new Atlas();
